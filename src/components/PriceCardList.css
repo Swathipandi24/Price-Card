@@ -1,0 +1,14 @@
+.price-card-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  background: linear-gradient(to right, #2175e3, #59bdff);
+  padding : 30px 40px;
+  border-radius: 8px;
+  max-width: 75%; 
+  margin: 0 auto;
+}
+.price-card-list {
+    display: flex;
+    gap: 30px;
+  }
